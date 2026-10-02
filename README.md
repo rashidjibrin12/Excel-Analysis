@@ -1,3 +1,13 @@
-# Excel-Analysis
+# Excel Analysis
 
-This project contains a financial analysis conducted in the uploaded XLSX file. I prepared and reviewed the core financial statements, including the income statement, balance sheet, and statement of cash flows. The analysis also includes a financial forecast and a cash budget to assess expected performance and liquidity.
+This repository contains a professional financial analysis workbook, "EXCEL ANALYSIS.xlsx", developed to evaluate the financial performance and planning position of the business. The analysis is structured to provide a clear view of the company’s operating results, financial position, and liquidity over time.
+
+The workbook includes:
+
+- Income statement
+- Balance sheet
+- Statement of cash flows
+- Financial forecast
+- Cash budget
+
+This project reflects a practical application of Excel for financial reporting, budgeting, and forecasting, with a focus on supporting informed business decisions and financial planning.
