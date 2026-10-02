@@ -1,13 +1,35 @@
 # Excel Analysis
 
-This repository contains a professional financial analysis workbook, "EXCEL ANALYSIS.xlsx", developed to evaluate the financial performance and planning position of the business. The analysis is structured to provide a clear view of the company’s operating results, financial position, and liquidity over time.
+This repository contains a comprehensive financial analysis workbook developed in Excel to evaluate business performance, assess financial health, and support planning and decision-making. The analysis is based on the uploaded workbook, `EXCEL ANALYSIS.xlsx`, and includes key financial reporting and forecasting components.
 
-The workbook includes:
+## Overview
 
-- Income statement
-- Balance sheet
-- Statement of cash flows
-- Financial forecast
-- Cash budget
+The workbook provides a practical application of Excel for financial analysis, covering essential areas of financial management and corporate planning. It is designed to help assess operating performance, financial position, cash generation, and short-term liquidity.
 
-This project reflects a practical application of Excel for financial reporting, budgeting, and forecasting, with a focus on supporting informed business decisions and financial planning.
+## Included Analysis
+
+The project includes the following financial components:
+
+- Income Statement
+- Balance Sheet
+- Statement of Cash Flows
+- Financial Forecast
+- Cash Budget
+
+## Purpose
+
+This analysis is intended to support informed decision-making by examining:
+
+- Revenue and profitability trends
+- Asset and liability structure
+- Cash flow generation and usage
+- Forecasted financial outcomes
+- Short-term cash planning and liquidity management
+
+## File
+
+- `EXCEL ANALYSIS.xlsx` — Excel workbook containing the financial analysis and planning models
+
+## Summary
+
+This project demonstrates the use of Excel for professional financial reporting and planning. It combines core accounting statements with forecasting and cash management tools to provide a clear view of a business's financial position and future outlook.
