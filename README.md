@@ -1,6 +1,6 @@
 # Excel Analysis
 
-This repository contains a comprehensive financial analysis workbook developed in Excel to evaluate business performance, assess financial health, and support planning and decision-making. The analysis is based on the uploaded workbook, `EXCEL ANALYSIS.xlsx`, and includes key financial reporting and forecasting components.
+This repository contains a comprehensive financial analysis workbook developed in Excel to evaluate business performance, assess financial health, and support planning and decision-making. The analysis is based on the uploaded workbook, EXCEL ANALYSIS.xlsx, and includes key financial reporting and forecasting components.
 
 ## Overview
 
@@ -28,7 +28,7 @@ This analysis is intended to support informed decision-making by examining:
 
 ## File
 
-- `EXCEL ANALYSIS.xlsx` — Excel workbook containing the financial analysis and planning models
+- EXCEL ANALYSIS.xlsx — Excel workbook containing the financial analysis and planning models
 
 ## Summary
 
