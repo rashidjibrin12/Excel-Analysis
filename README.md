@@ -39,13 +39,23 @@ The project includes the following financial components:
 
 ## Screenshots
 
-<img width="599" height="652" alt="{79B2AEFF-88A8-438F-8980-122073F31B9C}" src="https://github.com/user-attachments/assets/1f59fb11-00f9-450c-8ffa-ba6b9839368b" />
 
-<img width="543" height="599" alt="{6ED6A193-DDB5-41EF-A0A6-A29A33BCFB71}" src="https://github.com/user-attachments/assets/edcdefd2-7ee9-4e94-9fd7-fd470d5efe17" />
 
-<img width="814" height="788" alt="{6362419B-5A96-49D8-AF68-DDFC5C1965A1}" src="https://github.com/user-attachments/assets/c3fc59d8-3cce-4121-a41c-5994620f672b" />
+<img width="500" height="600" alt="{79B2AEFF-88A8-438F-8980-122073F31B9C}" src="https://github.com/user-attachments/assets/1f59fb11-00f9-450c-8ffa-ba6b9839368b" />
 
-<img width="815" height="887" alt="{51229075-D1AC-4EA1-900F-40863F441E1E}" src="https://github.com/user-attachments/assets/318ed1d0-8d8b-43e8-b5ac-87168a273e08" />
+
+
+<img width="500" height="600" alt="{6ED6A193-DDB5-41EF-A0A6-A29A33BCFB71}" src="https://github.com/user-attachments/assets/edcdefd2-7ee9-4e94-9fd7-fd470d5efe17" />
+
+
+
+<img width="500" height="600" alt="{6362419B-5A96-49D8-AF68-DDFC5C1965A1}" src="https://github.com/user-attachments/assets/c3fc59d8-3cce-4121-a41c-5994620f672b" />
+
+
+
+<img width="500" height="600" alt="{51229075-D1AC-4EA1-900F-40863F441E1E}" src="https://github.com/user-attachments/assets/318ed1d0-8d8b-43e8-b5ac-87168a273e08" />
+
+
 
 
 ## Business Impact
